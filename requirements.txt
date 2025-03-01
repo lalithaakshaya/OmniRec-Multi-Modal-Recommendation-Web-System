@@ -1,0 +1,11 @@
+conda create -n tf tensorflow
+conda activate tf
+conda install -c anaconda flask
+conda install -c anaconda pandas
+conda install -c conda-forge sentence-transformers
+conda install -c anaconda scikit-learn
+conda install -c conda-forge tensorflow
+conda install -c anaconda pymysql
+conda install -c conda-forge pickle5
+conda install -c anaconda numpy
+conda install -c anaconda pillow
